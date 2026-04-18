@@ -1,6 +1,6 @@
 # This is the first real CI workflow in the course.
 # It verifies a change by running tests on a fresh runner.
-# Test PR
+# Branch Protection 2
 name: 02 CI Workflow
 
 on:
